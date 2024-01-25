@@ -2,7 +2,7 @@
 
 Predict stock direction with lstm
 
-# Requirements
+## Requirements
 * pytorch
 * yfinance
 * numpy
