@@ -8,3 +8,4 @@ Predict stock direction with lstm
 * numpy
 * statsmodel
 * fracdiff
+* matplotlib
