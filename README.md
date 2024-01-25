@@ -9,3 +9,5 @@ Predict stock direction with lstm
 * statsmodel
 * fracdiff
 * matplotlib
+* ta
+* TA-Lib
